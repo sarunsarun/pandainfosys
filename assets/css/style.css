@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
-  font-family: 'Lobster', cursive;
+  /*font-family: 'Lobster', cursive;*/
   font-size: 30px;
   margin: 0;
   padding: 0;
